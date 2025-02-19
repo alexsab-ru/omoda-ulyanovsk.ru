@@ -6,7 +6,7 @@ import './modules/stock-slider';
 
 import { connectForms, cookiecook } from '@alexsab-ru/scripts';
 cookiecook();
-connectForms('https://alexsab.ru/lead/omoda/tonavto/', {
+connectForms('https://alexsab.ru/lead/omoda/ulyanovsk/', {
 	confirmModalText: 'Вы уже оставляли заявку сегодня, с Вами обязательно свяжутся в ближайшее время!',
 });
 
