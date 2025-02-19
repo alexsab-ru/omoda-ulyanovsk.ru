@@ -40,6 +40,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://omoda.alexsab.ru',
+	site: 'https://omoda-ulyanovsk.ru',
 	base: "/"
 });
