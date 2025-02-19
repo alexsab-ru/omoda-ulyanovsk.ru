@@ -9,7 +9,7 @@ description: "Получите OMODA C5 на специальных кредит
 ---
 import Button from '@/components/Button/Button.astro';
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
-import { Icon } from 'astro-icon/components'
+import AdvantagesList from '@/components/Advantages/List.astro';
 import { SITE_NAME, PHONE } from '@/const';
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
@@ -18,35 +18,24 @@ export const dateFrom = '01.07.2024';
 export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
 export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
 export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+export const advantages = [
+	{iconName: 'circular', title: 'Экстремально низкие', text: 'процентные ставки'},
+	{iconName: 'credit-approve', title: 'Первоначальный взнос', text: 'от 0%'},
+	{iconName: 'road-help', title: 'Без обязательных', text: 'дополнительных продуктов Банка'}
+];
 
 ### **Полная стоимость кредита на момент оформления Договора – от 1,010% до 23,993% годовых**
 ### **Ставка от 1,01%<sup>*</sup>**
 
 <picture>
-	<img src="/img/specials/specialnye-kreditnye-usloviya-na-omoda-c5/1.webp" class="w-full mb-10" alt="OMODA C5" />
+	<img src="/img/specials/specialnye-kreditnye-usloviya-na-omoda-c5/1.webp" class="w-full mb-10 md:mb-20" alt="OMODA C5" />
 </picture>
 
-<div class="flex justify-center mb-10">
+<div class="flex justify-center mb-10 md:mb-20">
 	<Button view='popup-link' url='#common-modal' dataTitle='Воспользоваться предложением' dataFormName='Воспользоваться предложением. Специальные кредитные условия на OMODA С5' title='Воспользоваться предложением' classes='btn btn-o !m-0' />
 </div>
 
-<div class="grid grid-cols-3 gap-10 text-center mb-10 md:mb-20">
-	<div class="bg-gray-100 py-10 px-2 flex flex-col items-center">
-		<Icon name="circular" class="text-6xl mb-6" />
-		<div class="text-2xl mb-6">Экстремально низкие</div>
-		<div class="text-gray-600 text-sm">процентные ставки</div>
-	</div>
-	<div class="bg-gray-100 py-10 px-2 flex flex-col items-center">
-		<Icon name="credit-approve" class="text-6xl mb-6" />
-		<div class="text-2xl mb-6">Первоначальный взнос</div>
-		<div class="text-gray-600 text-sm">от 0%</div>
-	</div>
-	<div class="bg-gray-100 py-10 px-2 flex flex-col items-center">
-		<Icon name="road-help" class="text-6xl mb-6" />
-		<div class="text-2xl mb-6">Без обязательных</div>
-		<div class="text-gray-600 text-sm">дополнительных продуктов Банка</div>
-	</div>
-</div>
+<AdvantagesList items={ advantages } />
 
 <div class="flex justify-center flex-wrap gap-5 mb-10 md:mb-20">
 	<Button url='/models/c5/' title='О модели' classes='btn btn-o !m-0' />
