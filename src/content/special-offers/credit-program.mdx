@@ -9,6 +9,7 @@ description: "Кредитные программы от дилерского ц
 ---
 import Button from '@/components/Button/Button.astro';
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import { Icon } from 'astro-icon/components'
 import { SITE_NAME, PHONE } from '@/const';
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
@@ -109,4 +110,39 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 	</div>
 </div>
 
-<SpecialSalonsInfo dataFormName="Узнать подробнее. Фестиваль продаж" />
+## Преимущества
+
+<div class="grid grid-cols-3 gap-10 text-center mb-10 md:mb-20">
+	<div class="bg-gray-100 py-10 px-2 flex flex-col items-center">
+		<Icon name="discount" class="text-6xl mb-6" />
+		<div class="text-2xl mb-6">Выгодно</div>
+		<div class="text-gray-600 text-sm">Сниженные процентные ставки при поддержке производителя</div>
+	</div>
+	<div class="bg-gray-100 py-10 px-2 flex flex-col items-center">
+		<Icon name="count" class="text-6xl mb-6" />
+		<div class="text-2xl mb-6">Без первого взноса</div>
+		<div class="text-gray-600 text-sm">Минимальный первоначальный взнос — от 0%</div>
+	</div>
+	<div class="bg-gray-100 py-10 px-2 flex flex-col items-center">
+		<Icon name="calendar" class="text-6xl mb-6" />
+		<div class="text-2xl mb-6">На любой срок</div>
+		<div class="text-gray-600 text-sm"></div>
+	</div>
+	<div class="bg-gray-100 py-10 px-2 flex flex-col items-center">
+		<Icon name="racing" class="text-6xl mb-6" />
+		<div class="text-2xl mb-6">Быстро</div>
+		<div class="text-gray-600 text-sm">Предварительное решение о выдаче автокредита от 30 минут</div>
+	</div>
+	<div class="bg-gray-100 py-10 px-2 flex flex-col items-center">
+		<Icon name="pin" class="text-6xl mb-6" />
+		<div class="text-2xl mb-6">Удобно</div>
+		<div class="text-gray-600 text-sm">Предоставление документов на кредит и подписание кредитной документации — в дилерском центре</div>
+	</div>
+	<div class="bg-gray-100 py-10 px-2 flex flex-col items-center">
+		<Icon name="choice" class="text-6xl mb-6" />
+		<div class="text-2xl mb-6">Широкий выбор</div>
+		<div class="text-gray-600 text-sm">Широкий выбор страховых продуктов по специальным тарифам</div>
+	</div>
+</div>
+
+<SpecialSalonsInfo dataFormName="Узнать подробнее. Кредитные программы. Взять новый автомобиль OMODA в кредит" />
