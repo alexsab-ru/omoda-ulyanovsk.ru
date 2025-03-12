@@ -18,19 +18,25 @@ export const PHONE = '+7 (8422) 50-60-49';
 export const BRAND = 'OMODA';
 // Конечное время для таймера
 //string 2024-04-26 or 2024-04-26 23:59:59 or December 31 2015 or December 31 2015 23:59:59 GMT+02:00
-export const TIMER_ENDTIME = '';
+export const TIMER = { title: 'До конца акции осталось',subtitle: '', endtime: `${YEAR}.${MONTH}.${LAST_DAY} 23:59:59`, btnName: 'Зафиксировать цену', show: false };
 // Объект для бегущей строки
-export const MARQUEE = {title: 'Тотальная распродажа до', dateTo: `${LAST_DAY}.${MONTH}.${YEAR}`, count: [1,2,3,4,5,6,7,8], show: false };
+export const MARQUEE = { title: 'Тотальная распродажа до', dateTo: `${LAST_DAY}.${MONTH}.${YEAR}`, count: [1,2,3,4,5,6,7,8], show: false };
 // Ссылка яндекс-виджета
 export const LINK_WIDGET = 'https://yandex.ru/map-widget/v1/-/';
 // Ссылка организации для виджета
 export const LINK_WIDGET_ORGNIZATION = 'CHaSQQKp';
 // Ссылки под хедером
+import modelsData from '@/data/models.json';
+const models = modelsData.filter(model => model.show);
 export const LINKS_MENU = [
 	{url: 'cars/', name: 'Авто в наличии'},
 	// {url: 'catalog/', name: 'Каталог'},
 	// {url: 'used_cars/', name: 'Авто с пробегом'},
-	{url: 'models/', name: 'Модели'},
+	{ 
+		url: 'models/', 
+		name: 'Модели',
+		children: models.map(model => ( { url: `models/${model.id}/`, name: `${model?.mark_id} ${model.name.toUpperCase()}` } ) )
+	},
 	// {url: 'trade-in/', name: 'Оценка автомобиля'},
 	{url: 'special-offers/', name: 'Спецпредложения'},
 	// {url: 'news/', name: 'Новости'},
@@ -38,6 +44,11 @@ export const LINKS_MENU = [
 	{url: 'service-request/', name: 'Запись на сервис'},
 	{url: '#services', name: 'Услуги'},
 	{url: 'contacts/', name: 'Контакты'},
+];
+// Коллекции
+export const COLLECTIONS = [
+	{name: 'special-offers', title: 'Спецпредложения'},
+	{name: 'news', title: 'Новости'},
 ];
 // Текстовая строка над хедером
 export const HEADER_TOP_LINE = '';
