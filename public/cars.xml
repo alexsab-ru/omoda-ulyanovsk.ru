@@ -183,62 +183,6 @@
       </multiposting>
     <max_discount>0</max_discount><priceWithDiscount>2129900</priceWithDiscount><sale_price>2129900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-s5-15-cvt-113-лс-classic-белый-2024/</url></car><car>
       <mark_id>Omoda</mark_id>
-      <folder_id>S5</folder_id>
-      <modification_id>1.5 CVT (113 л.с.)</modification_id>
-      <complectation_name>Classic</complectation_name>
-      <unique_id>3221080</unique_id>
-      <body_type>Седан</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>113 л.с.</engine_power>
-      <gearbox>Автомат вариатор</gearbox>
-      <drive>Передний</drive>
-      <nameplate />
-      <color>Белый</color>
-      <metallic>Нет</metallic>
-      <extras />
-      <description />
-      <year>2024</year>
-      <registry_year>2024</registry_year>
-      <price>2129900</price>
-      <credit_discount>160000</credit_discount>
-      <tradein_discount>160000</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>LVVDC21B3RD565973</vin>
-      <availability>В наличии</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (842) 221-43-40</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/30897845/fc754d9b9bc9f4f4ebcd8c0b5b903b7c.jpg</image>
-        <image>https://tradeins.space/uploads/photo/30897846/5c6e8fe09321e5192f0e1d3ab4fdd5e0.jpg</image>
-        <image>https://tradeins.space/uploads/photo/30897847/0ba878a2a6b9a35157e7f01d5d509f04.jpg</image>
-        <image>https://tradeins.space/uploads/photo/30897848/33488908aabaa3984ba156bcec569479.jpg</image>
-        <image>https://tradeins.space/uploads/photo/30897849/748ec5362a20fcc74f9bbb32de2893fe.jpg</image>
-        <image>https://tradeins.space/uploads/photo/30897850/1bbebed4edae17b0946787cb6dcc89d5.jpg</image>
-        <image>https://tradeins.space/uploads/photo/30897851/3f341cf7bcc6e4c7470d3a9dda23a0ad.jpg</image>
-        <image>https://tradeins.space/uploads/photo/30897852/07bc01a26270fb0fe68011fe6edba9c8.jpg</image>
-        <image>https://tradeins.space/uploads/photo/30897853/13361d14da95bb919c80fb19057aec10.jpg</image>
-        <image>https://tradeins.space/uploads/photo/30897854/e83fe334dafee8c5e568a0a89cf68ba2.jpg</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>0</max_discount><priceWithDiscount>2129900</priceWithDiscount><sale_price>2129900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-s5-15-cvt-113-лс-classic-белый-2024/</url></car><car>
-      <mark_id>Omoda</mark_id>
       <folder_id>S5 GT</folder_id>
       <modification_id>1.5 CVT (147 л.с.)</modification_id>
       <complectation_name>Tech</complectation_name>
@@ -524,72 +468,6 @@
         <image>https://tradeins.space/uploads/photo/34304682/23456315939478b23d52ac65a61bd8d4.jpg</image>
         <image>https://tradeins.space/uploads/photo/34304683/229259d8504011cea539c7c0def169c1.jpg</image>
         <image>https://tradeins.space/uploads/photo/34304684/eb4718e4a8439b7f94dd1adc7cc87280.jpg</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>0</max_discount><priceWithDiscount>2899900</priceWithDiscount><sale_price>2899900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-рестайлинг-16-amt-150-лс-4wd-drive-белый-2024/</url></car><car>
-      <mark_id>Omoda</mark_id>
-      <folder_id>C5, I Рестайлинг</folder_id>
-      <modification_id>1.6 AMT (150 л.с.) 4WD</modification_id>
-      <complectation_name>Drive</complectation_name>
-      <unique_id>3442062</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1600</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>150 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Полный</drive>
-      <nameplate />
-      <color>Белый</color>
-      <metallic>Нет</metallic>
-      <extras />
-      <description />
-      <year>2024</year>
-      <registry_year>2024</registry_year>
-      <price>2899900</price>
-      <credit_discount>340000</credit_discount>
-      <tradein_discount>340000</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>LVVDD21B6RDE16313</vin>
-      <availability>В наличии</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (842) 221-43-40</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/34313190/49c309242d5f3721f0e986d48d238a8c.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313189/32fb3b4d7de92697a1fb38adf8d0db1e.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313188/c1509cd583c55c377ae1fd4c8c2dd51e.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313191/2eda105d694b2e3696c10f9f6ab61993.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313192/adc2ccbd22596bf29bb518aa02676272.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313193/af819f212219a7909b77ec156743c20d.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313194/d4f26a66d487837e340170222a97caf2.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313195/382cb71a947c6da42e9e74f454aafe71.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313196/46dbf3b6db354a3a54d6ba1a62578708.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313197/0ce30f174515b2364c7347b665e31696.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313198/d61cd0dbb854ace9bbd86f2cc0defe55.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313199/18e7ee700ce31d8434bd0d14c5a5a5c9.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313200/309684f0d303d867ea4f717c487a44b1.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313201/ceee06be4ca5d5fb846731d0aaae5b49.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313202/b6c375729fd250bb191eb744fe75d9ec.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313203/850c8a4070be8ecce7835c7a3b2c2bb3.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313204/708501dcc0b5ffc3c77d0b6706d0e021.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313205/1d06d01b57d6303219772ac5a19e94c4.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313206/50f793949afabb12bc5feb56ccd02137.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34313207/a1693465e20087cbdd942f52e44291b7.jpg</image>
       </images>
       <multiposting>
         <classifieds>autoru</classifieds>
