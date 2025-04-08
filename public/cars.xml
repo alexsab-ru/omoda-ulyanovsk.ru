@@ -2,63 +2,6 @@
 <data>
   <cars><car>
       <mark_id>Omoda</mark_id>
-      <folder_id>S5 GT</folder_id>
-      <modification_id>1.5 CVT (147 л.с.)</modification_id>
-      <complectation_name>Tech</complectation_name>
-      <unique_id>3295403</unique_id>
-      <body_type>Седан</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>147 л.с.</engine_power>
-      <gearbox>Автомат вариатор</gearbox>
-      <drive>Передний</drive>
-      <nameplate />
-      <color>Синий</color>
-      <metallic>Да</metallic>
-      <extras />
-      <description />
-      <year>2024</year>
-      <registry_year>2024</registry_year>
-      <price>2479900</price>
-      <credit_discount>315500</credit_discount>
-      <tradein_discount>315500</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>LVVDC21B6RD678431</vin>
-      <availability>В наличии</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (842) 221-43-40</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/33371021/6321b126a79f108ec2a6f2c899471dea.jpeg</image>
-        <image>https://tradeins.space/uploads/photo/33371022/391c019aa529336fb9fbd33d0ef652af.jpeg</image>
-        <image>https://tradeins.space/uploads/photo/33371023/cd34086461d408115447c8536977cac9.jpeg</image>
-        <image>https://tradeins.space/uploads/photo/33371024/da4250bc9e27393f8810c3380d4d992b.jpeg</image>
-        <image>https://tradeins.space/uploads/photo/33371025/8f570bcc369bd57bbbe5a7de00913096.jpeg</image>
-        <image>https://tradeins.space/uploads/photo/33371026/eac3f7d1dc84bf522f4f462b12c8ae58.jpeg</image>
-        <image>https://tradeins.space/uploads/photo/33371027/2a71efe2c5681f705bb270694c4fa861.jpeg</image>
-        <image>https://tradeins.space/uploads/photo/33371028/5d5161d36df950b5771e7dcf7cea6dd3.jpeg</image>
-        <image>https://tradeins.space/uploads/photo/33371029/45c5c540a0d533eb5661a697a75eb62e.jpeg</image>
-        <image>https://tradeins.space/uploads/photo/33371030/b750d4ee8a59ee48f0e767ae79128f64.jpeg</image>
-        <image>https://tradeins.space/uploads/photo/33371031/211c0e30e6684aa70bdf99966b7f1cdb.jpeg</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>0</max_discount><priceWithDiscount>2479900</priceWithDiscount><sale_price>2479900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-s5-gt-15-cvt-147-лс-tech-синий-2024/</url></car><car>
-      <mark_id>Omoda</mark_id>
       <folder_id>C5, I</folder_id>
       <modification_id>1.6 AMT (150 л.с.) 4WD</modification_id>
       <complectation_name>Supreme</complectation_name>
@@ -80,7 +23,7 @@
       <registry_year>2024</registry_year>
       <price>3259900</price>
       <credit_discount>488985</credit_discount>
-      <tradein_discount>488000</tradein_discount>
+      <tradein_discount>488985</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -144,7 +87,7 @@
       <registry_year>2024</registry_year>
       <price>2899900</price>
       <credit_discount>434985</credit_discount>
-      <tradein_discount>400500</tradein_discount>
+      <tradein_discount>325500</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -207,7 +150,7 @@
       <registry_year>2024</registry_year>
       <price>2899900</price>
       <credit_discount>434985</credit_discount>
-      <tradein_discount>400500</tradein_discount>
+      <tradein_discount>325500</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -314,140 +257,8 @@
     <max_discount>0</max_discount><priceWithDiscount>2569900</priceWithDiscount><sale_price>2569900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-рестайлинг-15-cvt-147-лс-fun-черный-2024/</url></car><car>
       <mark_id>Omoda</mark_id>
       <folder_id>C5, I</folder_id>
-      <modification_id>1.5 CVT (147 л.с.)</modification_id>
-      <complectation_name>Lifestyle</complectation_name>
-      <unique_id>3442067</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>147 л.с.</engine_power>
-      <gearbox>Автомат вариатор</gearbox>
-      <drive>Передний</drive>
-      <nameplate />
-      <color>Белый</color>
-      <metallic>Да</metallic>
-      <extras />
-      <description />
-      <year>2024</year>
-      <registry_year>2024</registry_year>
-      <price>2721900</price>
-      <credit_discount>408050</credit_discount>
-      <tradein_discount>350500</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>LVVDB21B5RDB62308</vin>
-      <availability>В наличии</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (842) 221-43-40</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/34558349/6f4e5ec9ab26525a30d98e0bdc5bb698.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558350/5f0658fb75f69eea6b3ab8e8bf6f1424.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558351/bb5e983396d8ecb8df9ff03fcf576469.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558352/5b105fb6a6f5e9f38977f2a93fc0d99c.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558353/2366ece22c782721ce5d2bd59b0df084.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558354/c9c2969c51626e59cffed280122deffc.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558355/4ec12744a27dfd47d032ccfd620478d0.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558356/aebf911124970e59cc427c369fc72296.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558357/6166392367827563fb7d708f4c9aaeee.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558358/7a492f8200965cfd76d42f6ec69ae4cc.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558359/95e5512a2d399e3fccdc651a8adca787.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558360/2d0a9e8b83ec7ece0ea261efe4053b6b.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558361/aea84cf8fca30278c6cbf45c5277181b.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558362/b579cfa54e75295a904015e1d2bf7e3e.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558363/160c737a4c482d2513aa919487f49f86.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558364/ac45b838e649b35ca8410d5d25d5d2ec.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558365/6f9889cc24d1f2402c4c8a3fccf62266.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558366/12ba01e66bfc10b583eaa3cf57bb2319.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558367/8a994a2b93cddf3276fc1d290ca08561.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34558368/7d80005c435a5c8e705b625becfa0188.jpg</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>0</max_discount><priceWithDiscount>2721900</priceWithDiscount><sale_price>2721900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-15-cvt-147-лс-lifestyle-белый-2024/</url></car><car>
-      <mark_id>Omoda</mark_id>
-      <folder_id>C5, I Рестайлинг</folder_id>
-      <modification_id>1.5 CVT (147 л.с.)</modification_id>
-      <complectation_name>Lifestyle</complectation_name>
-      <unique_id>3442068</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>147 л.с.</engine_power>
-      <gearbox>Автомат вариатор</gearbox>
-      <drive>Передний</drive>
-      <nameplate />
-      <color>Белый</color>
-      <metallic>Да</metallic>
-      <extras />
-      <description />
-      <year>2024</year>
-      <registry_year>2024</registry_year>
-      <price>2819900</price>
-      <credit_discount>388000</credit_discount>
-      <tradein_discount>390500</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>LVVDB21B5RDE21069</vin>
-      <availability>В наличии</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (842) 221-43-40</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/34557355/5a47f3e073475c0eec24abfe5ff50e92.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557356/542ae971895f22171d18cd887192d2c1.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557357/46f05597cee3bd331e7a69bda5e49300.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557358/802bd3b83d84058a8fbc0cc27abf5f94.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557359/e7384fe45864fa2a8aec6c3ba8c804ff.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557360/b2618837ed7db855e4f9ca1bba0898ff.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557361/8fdc22da22c04b9dfe0fce38d6a9fc61.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557362/4b583252a3dab99dd24eb4babc676252.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557363/f525dfd42264d21d62fceba01680a6f2.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557364/c59ab56f518075309f69d69ef8f92e88.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557365/68ce43a7e44b15a3f059a1da6a91bec6.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557366/883f0b065372716b46501105e55559a8.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557367/33d65031361ab99db8b7141da6196323.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557368/b5c5e4d607316eda6bda5216b18e3f5c.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557369/e9d3ba05c429f5b920fd26c9514bc01d.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557370/80ab1eb958f3894e07ccdf870dfc2417.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557371/489d33e6acb4084ea4a9d019681cd875.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557372/a63825e092a34f117eaa861bb5cbecf4.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557373/8995331253d56f5ffa3d4ea0609a95cd.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34557374/2a8f380a4d5eb6592b3587424a958b39.jpg</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>0</max_discount><priceWithDiscount>2819900</priceWithDiscount><sale_price>2819900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-рестайлинг-15-cvt-147-лс-lifestyle-белый-2024/</url></car><car>
-      <mark_id>Omoda</mark_id>
-      <folder_id>C5, I</folder_id>
       <modification_id>1.6 AMT (150 л.с.) 4WD</modification_id>
-      <complectation_name>Active</complectation_name>
+      <complectation_name>Supreme</complectation_name>
       <unique_id>3442458</unique_id>
       <body_type>Внедорожник 5 дв.</body_type>
       <doors_count>5</doors_count>
@@ -464,9 +275,9 @@
       <description />
       <year>2024</year>
       <registry_year>2024</registry_year>
-      <price>3119900</price>
+      <price>3259900</price>
       <credit_discount>488985</credit_discount>
-      <tradein_discount>453000</tradein_discount>
+      <tradein_discount>488985</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -507,7 +318,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>0</max_discount><priceWithDiscount>3119900</priceWithDiscount><sale_price>3119900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-16-amt-150-лс-4wd-active-черный-2024/</url></car><car>
+    <max_discount>0</max_discount><priceWithDiscount>3259900</priceWithDiscount><sale_price>3259900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-16-amt-150-лс-4wd-supreme-черный-2024/</url></car><car>
       <mark_id>Omoda</mark_id>
       <folder_id>C5, I</folder_id>
       <modification_id>1.6 AMT (150 л.с.) 4WD</modification_id>
@@ -530,7 +341,7 @@
       <registry_year>2024</registry_year>
       <price>3259900</price>
       <credit_discount>488985</credit_discount>
-      <tradein_discount>488000</tradein_discount>
+      <tradein_discount>488985</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -576,73 +387,6 @@
       <mark_id>Omoda</mark_id>
       <folder_id>C5, I</folder_id>
       <modification_id>1.5 CVT (147 л.с.)</modification_id>
-      <complectation_name>Fun</complectation_name>
-      <unique_id>3451350</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>147 л.с.</engine_power>
-      <gearbox>Автомат вариатор</gearbox>
-      <drive>Передний</drive>
-      <nameplate />
-      <color>Белый</color>
-      <metallic>Да</metallic>
-      <extras />
-      <description />
-      <year>2024</year>
-      <registry_year>2024</registry_year>
-      <price>2369900</price>
-      <credit_discount>240000</credit_discount>
-      <tradein_discount>240500</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>LVVDB21B7RDB57062</vin>
-      <availability>В наличии</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (842) 221-43-40</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/34913988/e15815f58835cf6cf8de5b45d288dc91.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34913989/32f47aac70b3db97fd900433a8946003.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34913990/65bbc152e8332c84b64276652542c8a6.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34913991/03d3ff4abaddb7655e7851f6515b4662.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34913992/37ba891eeb0a20151ec7bda82eefc893.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34913993/0630b83d9d03385a5bd066238e1a7967.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34913994/186443282a0fcab5c4c75a8ccfcac2d5.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34913995/dd5e7f3ea99866059474878efccaa0cf.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34913996/a301b76833497c9297c46214c5f85782.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34913997/979e94f13eaf6dd8c6dc9fa1ce3f8e90.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34913998/4d3b155de4a50ab84853707b669da114.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34913999/ee848cee79cb763d0c927edb19302331.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34914000/f7cf652cec9173f3527a07398a180889.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34914001/87ddcde399317589e7d3e824f348c7f9.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34914002/9a34849cd8df2d43d975b80f083ad1ce.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34914003/f207d03d5443fad7eac3fb19f5664b0c.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34914004/6885689a5f47a7227edf9287f02bab6b.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34914005/f84ed37dcec9b105270fef19923ee408.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34914006/4ddcabb141a4d8438cb1238fda37608c.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34914007/5672208db70f12855f67fc61b7d420a8.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34914008/441273e76ae439a69444b61fb89c06e4.jpg</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>0</max_discount><priceWithDiscount>2369900</priceWithDiscount><sale_price>2369900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-15-cvt-147-лс-fun-белый-2024/</url></car><car>
-      <mark_id>Omoda</mark_id>
-      <folder_id>C5, I</folder_id>
-      <modification_id>1.5 CVT (147 л.с.)</modification_id>
       <complectation_name>Ultimate</complectation_name>
       <unique_id>3451351</unique_id>
       <body_type>Внедорожник 5 дв.</body_type>
@@ -662,7 +406,7 @@
       <registry_year>2024</registry_year>
       <price>2833900</price>
       <credit_discount>425085</credit_discount>
-      <tradein_discount>423000</tradein_discount>
+      <tradein_discount>425085</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -744,7 +488,27 @@
       </contact_info>
       <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
       <images>
-        <image>https://tradeins.space/uploads/photo/33372674/80d7f293b7b71e214b5a4b070dc2b5d6.png</image>
+        <image>https://tradeins.space/uploads/photo/35050912/ca42bd0aa3621e20e5eb3314a5856627.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050913/9f1f97ecaca12568c2e73e42f94a52aa.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050914/32c5dc127ea4c327eae9ddfb889798a1.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050915/fdb36a2d253af285e62a2d625d757755.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050916/2519c1bffbe2fa019dcd8caa985d1ebe.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050917/572adf08ffe504b5a1af4990ea300dea.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050918/ff6194fbe2c11d4a6b85db5f6331115d.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050919/7dc6403ffffea8dde0c7d93663fba780.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050920/d0b761687e9871f31ae249eda58a8e3c.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050921/eaec1f06fd68b2d22839adfa23679c69.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050922/a46762746d9268a4adbe77054bb1f220.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050923/5ffd994a0703b2f2b9f9caf7f9cb705b.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050924/d95ca0a094301b28ed906e4c9f67307d.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050925/952acc247173cc01f39d7879f6d9b5e0.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050926/de0c417c057d0afdefceb7a4f578b562.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050927/133fd4224644b14a45b5a0b779c5e6da.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050928/5588f62519fd80b81ef4e70eb6163b4d.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050929/d9f5c65389c5fa32d93802bb73d4e38a.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050930/7eed23ad64434bc1698a546d24db4912.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050931/768f8bf26bbd3440ec42aba925cda784.jpg</image>
+        <image>https://tradeins.space/uploads/photo/35050932/5720182033df6e1814ece141d848bbe3.jpg</image>
       </images>
       <multiposting>
         <classifieds>autoru</classifieds>
@@ -772,7 +536,7 @@
       <registry_year>2024</registry_year>
       <price>2819900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>390500</tradein_discount>
+      <tradein_discount>422985</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -834,7 +598,7 @@
       <registry_year>2024</registry_year>
       <price>2819900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>390500</tradein_discount>
+      <tradein_discount>422985</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -894,7 +658,7 @@
       <registry_year>2024</registry_year>
       <price>2819900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>390500</tradein_discount>
+      <tradein_discount>422985</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -954,7 +718,7 @@
       <registry_year>2024</registry_year>
       <price>2819900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>390500</tradein_discount>
+      <tradein_discount>422985</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -1001,7 +765,7 @@
       <registry_year>2024</registry_year>
       <price>2819900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>390500</tradein_discount>
+      <tradein_discount>422985</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -1061,7 +825,7 @@
       <registry_year>2024</registry_year>
       <price>2819900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>390500</tradein_discount>
+      <tradein_discount>422985</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -1121,7 +885,7 @@
       <registry_year>2024</registry_year>
       <price>2819900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>390500</tradein_discount>
+      <tradein_discount>422985</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -1168,7 +932,7 @@
       </multiposting>
     <max_discount>0</max_discount><priceWithDiscount>2819900</priceWithDiscount><sale_price>2819900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-рестайлинг-15-cvt-147-лс-lifestyle-серебряный-2024/</url></car><car>
       <mark_id>Omoda</mark_id>
-      <folder_id>C5, I Рестайлинг</folder_id>
+      <folder_id>C5, I</folder_id>
       <modification_id>1.5 CVT (147 л.с.)</modification_id>
       <complectation_name>Ultimate</complectation_name>
       <unique_id>3472527</unique_id>
@@ -1187,9 +951,9 @@
       <description />
       <year>2024</year>
       <registry_year>2024</registry_year>
-      <price>2819900</price>
+      <price>2833900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>390500</tradein_discount>
+      <tradein_discount>425085</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -1208,12 +972,16 @@
       </contact_info>
       <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
       <images>
-        <image>https://tradeins.space/uploads/photo/33372680/2288899a9dc4c82b6a3d919150a93bee.png</image>
+        <image>https://tradeins.space/uploads/photo/28699989/448612724f2a80808d4736942c82bffc.png</image>
+        <image>https://tradeins.space/uploads/photo/28699991/4a4fb07a2261b130b2c13f875346d57a.png</image>
+        <image>https://tradeins.space/uploads/photo/28699990/6be3a630b897786c98e86a8dd6311ed2.jpg</image>
+        <image>https://tradeins.space/uploads/photo/28699993/ce5ea4a3c45c8f2f8c4e95c333ecd555.png</image>
+        <image>https://tradeins.space/uploads/photo/28699992/42b896deec206e16d06e09da35cb464a.png</image>
       </images>
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>0</max_discount><priceWithDiscount>2819900</priceWithDiscount><sale_price>2819900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-рестайлинг-15-cvt-147-лс-ultimate-серебряный-2024/</url></car><car>
+    <max_discount>0</max_discount><priceWithDiscount>2833900</priceWithDiscount><sale_price>2833900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-15-cvt-147-лс-ultimate-серебряный-2024/</url></car><car>
       <mark_id>Omoda</mark_id>
       <folder_id>C5, I Рестайлинг</folder_id>
       <modification_id>1.5 CVT (147 л.с.)</modification_id>
@@ -1236,7 +1004,7 @@
       <registry_year>2024</registry_year>
       <price>2959900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>355500</tradein_discount>
+      <tradein_discount>443985</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -1295,7 +1063,7 @@
       <registry_year>2024</registry_year>
       <price>3119900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>453000</tradein_discount>
+      <tradein_discount>467985</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -1356,7 +1124,7 @@
       <registry_year>2024</registry_year>
       <price>3119900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>453000</tradein_discount>
+      <tradein_discount>467985</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -1397,6 +1165,285 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>0</max_discount><priceWithDiscount>3119900</priceWithDiscount><sale_price>3119900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-16-amt-150-лс-4wd-active-черный-2024/</url></car>
+    <max_discount>0</max_discount><priceWithDiscount>3119900</priceWithDiscount><sale_price>3119900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-16-amt-150-лс-4wd-active-черный-2024/</url></car><car>
+      <mark_id>Omoda</mark_id>
+      <folder_id>C5, I Рестайлинг</folder_id>
+      <modification_id>1.5 CVT (147 л.с.)</modification_id>
+      <complectation_name>Fun</complectation_name>
+      <unique_id>3479042</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>147 л.с.</engine_power>
+      <gearbox>Автомат вариатор</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Серебряный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2569900</price>
+      <credit_discount>0</credit_discount>
+      <tradein_discount>310500</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LVVDB21B2RDE55146</vin>
+      <availability>В наличии</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (842) 221-43-40</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/33372675/1b0a101e2ebcdba1df735b5cc5eb8b2e.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>0</max_discount><priceWithDiscount>2569900</priceWithDiscount><sale_price>2569900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-рестайлинг-15-cvt-147-лс-fun-серебряный-2024/</url></car><car>
+      <mark_id>Omoda</mark_id>
+      <folder_id>C5, I Рестайлинг</folder_id>
+      <modification_id>1.5 CVT (147 л.с.)</modification_id>
+      <complectation_name>Fun</complectation_name>
+      <unique_id>3479043</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>147 л.с.</engine_power>
+      <gearbox>Автомат вариатор</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Синий</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2569900</price>
+      <credit_discount>0</credit_discount>
+      <tradein_discount>310500</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LVVDB21B5RDE55674</vin>
+      <availability>В наличии</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (842) 221-43-40</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>0</max_discount><priceWithDiscount>2569900</priceWithDiscount><sale_price>2569900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-рестайлинг-15-cvt-147-лс-fun-синий-2024/</url></car><car>
+      <mark_id>Omoda</mark_id>
+      <folder_id>C5, I Рестайлинг</folder_id>
+      <modification_id>1.5 CVT (147 л.с.)</modification_id>
+      <complectation_name>Fun</complectation_name>
+      <unique_id>3479044</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>147 л.с.</engine_power>
+      <gearbox>Автомат вариатор</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Серый</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2569900</price>
+      <credit_discount>0</credit_discount>
+      <tradein_discount>310500</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LVVDB21B6RDE53318</vin>
+      <availability>В наличии</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (842) 221-43-40</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/33372676/6b08524b22c00da784fe5da8fcd124dd.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>0</max_discount><priceWithDiscount>2569900</priceWithDiscount><sale_price>2569900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-рестайлинг-15-cvt-147-лс-fun-серый-2024/</url></car><car>
+      <mark_id>Omoda</mark_id>
+      <folder_id>C5, I Рестайлинг</folder_id>
+      <modification_id>1.5 CVT (147 л.с.)</modification_id>
+      <complectation_name>Fun</complectation_name>
+      <unique_id>3479045</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>147 л.с.</engine_power>
+      <gearbox>Автомат вариатор</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Серебряный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2569900</price>
+      <credit_discount>0</credit_discount>
+      <tradein_discount>310500</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LVVDB21B6RDE55151</vin>
+      <availability>В наличии</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (842) 221-43-40</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/33372675/1b0a101e2ebcdba1df735b5cc5eb8b2e.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>0</max_discount><priceWithDiscount>2569900</priceWithDiscount><sale_price>2569900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-рестайлинг-15-cvt-147-лс-fun-серебряный-2024/</url></car><car>
+      <mark_id>Omoda</mark_id>
+      <folder_id>C5, I Рестайлинг</folder_id>
+      <modification_id>1.5 CVT (147 л.с.)</modification_id>
+      <complectation_name>Fun</complectation_name>
+      <unique_id>3479046</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>147 л.с.</engine_power>
+      <gearbox>Автомат вариатор</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2569900</price>
+      <credit_discount>0</credit_discount>
+      <tradein_discount>310500</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LVVDB21B7RDB96301</vin>
+      <availability>В наличии</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (842) 221-43-40</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/33372674/80d7f293b7b71e214b5a4b070dc2b5d6.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>0</max_discount><priceWithDiscount>2569900</priceWithDiscount><sale_price>2569900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-рестайлинг-15-cvt-147-лс-fun-белый-2024/</url></car><car>
+      <mark_id>Omoda</mark_id>
+      <folder_id>C5, I Рестайлинг</folder_id>
+      <modification_id>1.5 CVT (147 л.с.)</modification_id>
+      <complectation_name>Fun</complectation_name>
+      <unique_id>3479047</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>147 л.с.</engine_power>
+      <gearbox>Автомат вариатор</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2569900</price>
+      <credit_discount>0</credit_discount>
+      <tradein_discount>310500</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LVVDB21B9RDB96302</vin>
+      <availability>В наличии</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (842) 221-43-40</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/33372674/80d7f293b7b71e214b5a4b070dc2b5d6.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>0</max_discount><priceWithDiscount>2569900</priceWithDiscount><sale_price>2569900</sale_price><url>https://omoda-ulyanovsk.ru/cars/omoda-c5-i-рестайлинг-15-cvt-147-лс-fun-белый-2024/</url></car>
 </cars>
 </data>
