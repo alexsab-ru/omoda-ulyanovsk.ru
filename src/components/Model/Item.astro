@@ -15,7 +15,7 @@ import { currencyFormat } from '@/js/utils/numbers.format';
 		<h2
 			class="xs:!text-[10px] leading-none !text-lg sm:!text-2xl uppercase font-bold transition-colors duration-500 group-hover:text-accent-500 !m-0 !p-0 before:!hidden"
 		>
-			{model.mark_id}&nbsp;{model.name}
+			{model.mark_id} {model.name}
 		</h2>
 		{
 			model?.benefit && !isNaN(model?.benefit) && model?.benefit != 0 && model?.benefit != '' && (
@@ -50,7 +50,7 @@ import { currencyFormat } from '@/js/utils/numbers.format';
 	{
 		model?.price && !isNaN(model?.price) && model?.price != 0 && model?.price != '' ?  (
 			<span>
-				<span class="text-sm text-gray-400">от</span>&nbsp;{currencyFormat(model.price)}
+				<span class="text-sm text-gray-400">от</span> {currencyFormat(model.price)}
 			</span>
 		) : (
 			<span>
