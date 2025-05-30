@@ -1,10 +1,7 @@
+#!/usr/bin/env python
 import json
 import os
 
-dealer = {
-    "city": "Ульяновск",
-    "where": "Ульяновске",
-}
 
 # Загружаем model_mapping из JSON файла
 def load_model_mapping():

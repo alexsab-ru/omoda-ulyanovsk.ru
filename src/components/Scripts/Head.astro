@@ -1,135 +1,33 @@
 ---
 import scripts_json from '@/data/scripts.json';
+import { cleanScriptsData } from '@/components/Scripts/components/cleanScriptsData';
+import GTM from '@/components/Scripts/components/runGTM.astro';
+import METRIKA_DEV from '@/components/Scripts/components/runMETRIKA_DEV.astro';
+import METRIKA from '@/components/Scripts/components/runMETRIKA.astro';
+import GA4 from '@/components/Scripts/components/runGA4.astro';
+import RE from '@/components/Scripts/components/runRE.astro';
+import VK_RTRG from '@/components/Scripts/components/runVK_RTRG.astro';
+import TOP_MAIL_RU from '@/components/Scripts/components/runTOP_MAIL_RU.astro';
+import CALLTOUCH from '@/components/Scripts/components/runCALLTOUCH.astro';
+import KONGET from '@/components/Scripts/components/runKONGET.astro';
+import STREAMWOOD from '@/components/Scripts/components/runSTREAMWOOD.astro';
+import SMARTPOINT from '@/components/Scripts/components/runSMARTPOINT.astro';
+import WIDGETS from '@/components/Scripts/components/runWIDGETS.astro';
+import LoadAnalyticsScripts from '@/components/Scripts/components/loadAnalyticsScripts.astro';
+
+const cleanedScripts = cleanScriptsData(scripts_json);
 ---
-<script define:vars={{ scripts_json }}>
-(function() {
-    var analyticsLoaded = false;
-    var startTime = Date.now();
-
-    function loadAnalyticsScripts() {
-        console.log("loadAnalyticsScripts", (Date.now() - startTime));
-        if (!analyticsLoaded) {
-            analyticsLoaded = true;
-            window.removeEventListener('scroll', loadAnalyticsScripts);
-            document.removeEventListener('mousemove', loadAnalyticsScripts);
-
-            // Google Tag Managers
-            if (scripts_json.gtm && scripts_json.gtm.length > 0) {
-                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                })(window,document,'script','dataLayer',scripts_json.gtm);
-            }
-
-            // Яндекс Метрика
-            if (scripts_json.gtm == "" && scripts_json.metrika && scripts_json.metrika.length > 0) {
-                (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-                m[i].l=1*new Date();
-                for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-                k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-                (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-                scripts_json.metrika.forEach(metrika => {
-                    ym(metrika.id, "init", metrika);
-                });
-            }
-
-            // Google Analytics 4
-            if (scripts_json.gtm == "" && scripts_json.ga4 && scripts_json.ga4.length > 0) {
-                scripts_json.ga4.forEach(ga => {
-                    var script = document.createElement('script');
-                    script.src = `https://www.googletagmanager.com/gtag/js?id=${ga.id}`;
-                    script.async = true;
-                    document.head.appendChild(script);
-                    window.dataLayer = window.dataLayer || [];
-                    function gtag(){dataLayer.push(arguments);}
-                    gtag('js', new Date());
-                    gtag('config', ga.id);
-                });
-            }
-
-            // reCAPTCHA
-            if (scripts_json.re && scripts_json.re.trim() !== "") {
-                var script = document.createElement('script');
-                script.src = `https://www.google.com/recaptcha/api.js?render=${scripts_json.re}`;
-                script.async = true;
-                script.defer = true;
-                document.head.appendChild(script);
-            }
-
-            // VK Retargeting
-            if (scripts_json.gtm == "" && scripts_json['vk-rtrg'] && scripts_json['vk-rtrg'].length > 0) {
-                scripts['vk-rtrg'].forEach(vk => {
-                    if (vk.id && vk.id.trim() !== "") {
-                        var script = document.createElement('script');
-                        script.innerHTML = `!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?169",t.onload=function(){VK.Retargeting.Init("${vk.id}"),VK.Retargeting.Hit()},document.head.appendChild(t)}();`;
-                        document.head.appendChild(script);
-                    }
-                });
-            }
-
-            // Top Mail.ru
-            if (scripts_json.gtm == "" && scripts_json['top.mail.ru'] && scripts_json['top.mail.ru'].length > 0) {
-                scripts['top.mail.ru'].forEach(mail => {
-                    if (mail.id && mail.id.trim() !== "") {
-                        var script = document.createElement('script');
-                        script.innerHTML = `var _tmr = window._tmr || (window._tmr = []); _tmr.push({id: "${mail.id}", type: "pageView", start: (new Date()).getTime()}); (function (d, w, id) { if (d.getElementById(id)) return; var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id; ts.src = "https://top-fwz1.mail.ru/js/code.js"; var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);}; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "topmailru-code");`;
-                        document.head.appendChild(script);
-                    }
-                });
-            }
-
-            // Calltouch
-            if (scripts_json.gtm == "" && scripts_json.calltouch && scripts_json.calltouch.client_id && scripts_json.calltouch.site_id) {
-                var script = document.createElement('script');
-                script.src = `https://mod.calltouch.ru/init.js?id=${scripts_json.calltouch.client_id}`;
-                script.async = true;
-                document.head.appendChild(script);
-                window.calltouch_params = {
-                    site_id: scripts_json.calltouch.site_id
-                };
-            }
-
-            // Konget
-            if (scripts_json.gtm == "" && scripts_json.konget && scripts_json.konget.trim() !== "") {
-                var script = document.createElement('script');
-                script.src = scripts_json.konget;
-                script.async = true;
-                document.head.appendChild(script);
-            }
-
-            // Streamwood
-            if (scripts_json.gtm == "" && scripts_json.streamwood && scripts_json.streamwood.swKey && scripts_json.streamwood.swDomainKey) {
-                var script = document.createElement('script');
-                script.innerHTML = scripts_json.streamwood.code;
-                document.head.appendChild(script);
-            }
-
-            // Widgets
-            if (scripts_json.gtm == "" && scripts_json.widgets && scripts_json.widgets.length > 0) {
-                scripts_json.widgets.forEach(widget => {
-                    if (widget && widget.trim() !== "") {
-                        var script = document.createElement('script');
-                        script.src = widget;
-                        script.async = true;
-                        document.head.appendChild(script);
-                    }
-                });
-            }
-        }
-    }
-
-    function initializeEventListeners() {
-        window.addEventListener('scroll', loadAnalyticsScripts);
-        document.addEventListener('mousemove', loadAnalyticsScripts);
-    }
-
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', initializeEventListeners);
-    } else {
-        initializeEventListeners();
-    }
-})();
-</script>
-
+<script id="scripts_json" type="application/ld+json" set:html={JSON.stringify(cleanedScripts)}/>
+<GTM />
+<METRIKA_DEV />
+<METRIKA />
+<GA4 />
+<RE />
+<VK_RTRG />
+<TOP_MAIL_RU />
+<CALLTOUCH />
+<KONGET />
+<STREAMWOOD />
+<SMARTPOINT />
+<WIDGETS />
+<LoadAnalyticsScripts />
